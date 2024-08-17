@@ -1,8 +1,4 @@
----
-title: Basic (Data Router)
-toc: false
-order: 1
----
+https://pudek357.github.io/react-router-route-lazy
 
 # Data Routers
 

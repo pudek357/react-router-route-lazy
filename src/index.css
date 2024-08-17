@@ -80,3 +80,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.nav-link {
+  display: flex;
+  height: 22px;
+  text-decoration: none;
+}
+
+.nav-link-route {
+  width: 40px;
+}
+
+.nav-link-state {
+  margin-left: 4px;
+  display: flex;
+}
+
+.nav-link-state-item {
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
